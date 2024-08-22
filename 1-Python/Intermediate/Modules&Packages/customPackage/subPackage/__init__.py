@@ -1,0 +1,1 @@
+# Note : There is a special file - __init__.py which is used to make a directory as a package
