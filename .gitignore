@@ -1,3 +1,4 @@
-venv
+venv/
 commands.txt
 .DS_Store
+.git/
