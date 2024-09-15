@@ -1,9 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.   
-
-Nunc eget felis at nulla ultricies commodo. Quisque aliquam, felis id eleifend facilisis, lectus libero scelerisque urna, in ultricies eros turpis at mi. Mauris facilisis nunc at risus interdum, nec aliquam arcu ultrices. Aliquam erat volutpat. Nulla facilisi. Nulla facilisi.
-
-Praesent vitae lectus euismod, tincidunt nibh et, aliquet dolor. Integer et sapien felis. Cras suscipit, lacus vitae facilisis hendrerit, enim quam lobortis nunc, vitae aliquet erat mauris quis ipsum. Nulla facilisi. Nulla facilisi.
-
-Donec cursus, turpis et cursus fringilla, nulla nisl ultrices elit, vel tincidunt diam nulla et libero. Nam ac lacus nec dui rutrum lacinia. Mauris in magna id nunc sollicitudin lacinia. Mauris in magna id nunc sollicitudin lacinia.
-
-Sed volutpat, odio quis pharetra lacinia, nisl risus venenatis tellus, id eleifend ipsum nibh eget turpis. Donec ac sapien euismod, mattis orci ut, porttitor lectus. Nulla facilisi. Nulla facilisi.
